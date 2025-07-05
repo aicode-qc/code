@@ -8,6 +8,10 @@ import networkx
 import numpy
 import tqdm
 ```
+or you can have everything set up by running:
+、、、
+pip install -r requirements.txt
+、、、
 ## 2. Model Training
 To train a model for each dataset with the best configuration as described in the paper, execute:
 ```python
